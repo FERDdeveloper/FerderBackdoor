@@ -7,7 +7,8 @@ public class FBD {
         var2.getArgs(); System.getProperty("Documents") + ("this computer/documents/");
         int 1  {
             //searches computer for .jar files
-            byte[] ".jar" + filename;
+            byte[,] ".jar" + filename;
+            .getFile(,); .getFileExtension(,);
         }
     }
 }
